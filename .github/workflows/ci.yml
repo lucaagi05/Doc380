@@ -23,6 +23,10 @@ jobs:
           pip install mkdocs mkdocs-material
           pip install mkdocs-video
 
+      - name: Run blog generation script
+        run: |
+          python generate_blog.py
+
       - name: Build MkDocs site
         run: |
           mkdocs build
