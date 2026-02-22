@@ -5,8 +5,8 @@
 ![MARILL](assets/marill.gif "MARILL :3"){ style="display: block; margin: 0 auto; width: 300px;" }
 
 
-## link utili:
+## Useful Links
 
 [mkdocs.org](https://www.mkdocs.org)
 
-[github](https://github.com/Sceptile380)
+[GitHub](https://github.com/lucaagi05)

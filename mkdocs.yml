@@ -37,10 +37,9 @@ theme:
 
 plugins:
   - search
-  - blog
   - mkdocs-video
   - tags:
-     tags_file: tags.md
+      tags_file: tags.md
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -59,14 +58,13 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Tags: tags.md
   - About: about/about.md
-  - Art:
+  - Projects & Art:
     - 3D Artworks: art/3d_art.md
     - Digital Art & Graphics: art/art_n_graph.md
     - Fimo Art: art/fimo_art.md
-  - Red Angry Birds: spinning_bouncing.html
-  - Blog:
-    - blog/index.md
   - Code Docs:
     - Java: coding/java_1.md
+  - Blog:
+    - blog/index.md
+  - Tags: tags.md
